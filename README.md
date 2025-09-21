@@ -1,4 +1,4 @@
 # apnaCollege-demo
 this is my first repository
 <br>
-author - kashish raghuwanshi
+author - kashish raghuwanshi nd sanjana
